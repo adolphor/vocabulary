@@ -17,9 +17,18 @@
 ### 例句
 
 ```
-The truth is that the architecture of most language applications is __freakishly__ similar.
+The truth is that the architecture of most language applications is freakishly similar.
 —— Language Implementation Patterns, P12
 ```
 
+# pronto
+* ['prɑnto]
+* adv. 很快地
 
+### 例句
+
+```
+If you need to learn how to build languages pronto, this book is for you. 
+—— Language Implementation Patterns, P12
+```
 

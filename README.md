@@ -5,3 +5,4 @@
 # 参考
 
 * http://www.dictionary.com
+* https://translate.google.cn

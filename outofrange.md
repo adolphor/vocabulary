@@ -1,3 +1,15 @@
+# distill
+* [dɪs'tɪl]
+* vt. 提取；蒸馏；使滴下
+* vi. 蒸馏；滴下；作为精华产生（等于distil）
+
+### 例句
+
+```
+It’s a pragmatic book that identifies and distills the common design patterns to their essence.
+—— Language Implementation Patterns, P12
+```
+
 # freakishly 
 
 * ['fri:kiʃli]

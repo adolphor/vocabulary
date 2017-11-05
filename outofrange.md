@@ -72,3 +72,13 @@ To get the most out of this book, you should be fairly comfortable with recursio
 inherently recursive.
 —— Language Implementation Patterns, P16
 ```
+
+# smarten
+* ['smɑrtn]
+* vt. 使整洁；使漂亮潇洒；使更敏捷；使更聪明
+* vi. 打扮；变得更轻快；变得更聪明；变得更剧烈
+```
+You’ll simply use images to smarten up their look, and you will also adjust the colors and typefaces.
+—— iOS Apprentice 01 - P07
+```
+

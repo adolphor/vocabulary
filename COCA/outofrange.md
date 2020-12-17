@@ -1,3 +1,18 @@
+# cryptography
+* [krɪp'tɑgrəfi]
+* n. 密码学；密码使用法
+
+### 例句
+
+```
+The Java platform defines a set of APIs spanning major security areas, including cryptography, 
+public key infrastructure, authentication, secure communication, and access control. These APIs 
+allow developers to easily integrate security into their application code. They were designed 
+around the following principles: ......
+—— JCA Reference Guide (Introduction)
+```
+
+
 # distill
 * [dɪs'tɪl]
 * vt. 提取；蒸馏；使滴下
@@ -9,6 +24,19 @@
 It’s a pragmatic book that identifies and distills the common design patterns to their essence.
 —— Language Implementation Patterns, P12
 ```
+
+# decouple
+* de·couple
+* [diːˈkʌpl]
+* vt. 减弱震波；（使两事物）分离，隔断
+* n. [电] 去耦
+
+### 例句
+```
+This interface provides a way of decoupling task submission from the mechanics of how each task will be run
+—— Java源码 java.util.concurrent.Executor.java
+```
+
 
 # errata
 * [e'rɑːtə]
@@ -42,6 +70,24 @@ The truth is that the architecture of most language applications is freakishly s
 —— Language Implementation Patterns, P12
 ```
 
+# interoperable
+* [ɪntər'ɒp(ə)rəb(ə)l]
+* adj. 彼此协作的；能共同操作的；能共同使用的
+
+### 变体
+* interoperability
+    - ['intər,ɔpərə'biləti]
+    - n. [计] 互操作性；互用性
+    - 例：Implementation interoperability 
+
+### 例句
+```
+Providers are interoperable across applications. Specifically, an application is not 
+bound to a specific provider, and a provider is not bound to a specific application.
+—— Implement a Provider in JCA (Introduction)
+```
+
+
 # pronto
 * ['prɑnto]
 * adv. 很快地
@@ -58,8 +104,8 @@ If you need to learn how to build languages pronto, this book is for you.
 * n. [数] 递归，循环；递归式
 
 ```
-To get the most out of this book, you should be fairly comfortable with recursion. Many algorithms and processes are 
-inherently recursive.
+To get the most out of this book, you should be fairly comfortable with recursion. Many 
+algorithms and processes are inherently recursive.
 —— Language Implementation Patterns, P16
 ```
 
@@ -68,8 +114,8 @@ inherently recursive.
 * adj. [数] 递归的；循环的
 
 ```
-To get the most out of this book, you should be fairly comfortable with recursion. Many algorithms and processes are 
-inherently recursive.
+To get the most out of this book, you should be fairly comfortable with recursion. Many 
+algorithms and processes are inherently recursive.
 —— Language Implementation Patterns, P16
 ```
 

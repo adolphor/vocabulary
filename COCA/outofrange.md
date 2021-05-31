@@ -1,3 +1,15 @@
+# canary
+* [kəˈneri]
+* n. 金丝雀；淡黄色，鲜黄色；加纳利甜酒
+* n. (Canary) （美、印、英）卡纳里
+
+```
+Istio simplifies configuration of service-level properties like circuit breakers, timeouts, 
+and retries, and makes it easy to set up important tasks like A/B testing, canary rollouts, 
+and staged rollouts with percentage-based traffic splits.
+—— https://istio.io/latest/docs/concepts/traffic-management/
+```
+
 # cryptography
 * [krɪp'tɑgrəfi]
 * n. 密码学；密码使用法
@@ -10,6 +22,14 @@ public key infrastructure, authentication, secure communication, and access cont
 allow developers to easily integrate security into their application code. They were designed 
 around the following principles: ......
 —— JCA Reference Guide (Introduction)
+```
+
+# dataset
+* [ˈdeɪtəset]
+n. 数据集（一组数据）
+```
+Modeling the distribution of the dataset.
+对数据集的分布进行建模。
 ```
 
 
@@ -37,6 +57,18 @@ This interface provides a way of decoupling task submission from the mechanics o
 —— Java源码 java.util.concurrent.Executor.java
 ```
 
+# envoy
+* [ˈenvɔɪ]
+* n. 使者；全权公使
+
+```
+special envoy 特使
+```
+
+```
+The U. S. envoy was recalled to Washington.
+该美国特使被召回了华盛顿。
+```
 
 # errata
 * [e'rɑːtə]
@@ -98,6 +130,23 @@ bound to a specific provider, and a provider is not bound to a specific applicat
 If you need to learn how to build languages pronto, this book is for you. 
 —— Language Implementation Patterns, P12
 ```
+
+# recap
+* [ˈriːkæp]  
+n. 翻新的轮胎  
+vt. 翻新胎面；扼要重述  
+
+```
+Let me just recap on what we've decided so far.
+让我来概括一下到目前为止我们所作的决定吧。 
+
+Can you recap the points included in the proposal?
+你能概括一下这个提议中包括的要点吗？ 
+
+To recap briefly, the agreement was rejected 10 days ago.
+简短概括就是，这项协议10天前被否决了。
+```
+
 
 # recursion
 * [rɪ'kɝʃən]

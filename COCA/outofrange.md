@@ -10,6 +10,15 @@ and staged rollouts with percentage-based traffic splits.
 —— https://istio.io/latest/docs/concepts/traffic-management/
 ```
 
+# centric
+* /ˈsentrɪk/
+* adj. 中心的；重要的；（硅藻）放射性对称的
+
+```
+Introduction to Node-Centric UIs
+—— Pro JavaFX 9, Page33
+```
+
 # cryptography
 * [krɪp'tɑgrəfi]
 * n. 密码学；密码使用法

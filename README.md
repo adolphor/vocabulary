@@ -7,6 +7,7 @@
 * 相同单词：同 `xx编号`
 * 词性变更：参见 `xx编号`
 * 词性变更且不在词汇列表中，使用 `变体`，直接跟上具体释义即可
+* 【英】音标 读音【美】音标 读音
 
 ## gut
 * 12187
@@ -18,12 +19,11 @@
 * adj. 真正的，真实的；可信的
 
 ### 变体
-* authentication
-    - [ɔ,θɛntɪ'keʃən]
-    - n. 证明；鉴定；证实
+> authentication
+* [ɔ,θɛntɪ'keʃən]
+* n. 证明；鉴定；证实
 
 ### 例句
-
 ```
 The Java platform defines a set of APIs spanning major security areas, including cryptography, 
 public key infrastructure, authentication, secure communication, and access control. These APIs 
@@ -37,3 +37,4 @@ around the following principles: ......
 
 * http://www.dictionary.com
 * https://translate.google.cn
+* [有道词典 - dog](https://dict.youdao.com/jsonapi?q=dog&doctype=json&keyfrom=mac.main&vendor=cidian.youdao.com&appVer=2.6.0&client=macdict&jsonversion=2)

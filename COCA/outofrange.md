@@ -128,6 +128,17 @@ bound to a specific provider, and a provider is not bound to a specific applicat
 —— Implement a Provider in JCA (Introduction)
 ```
 
+# opacity
+* [oʊ'pæsəti]
+* n. 不透明；不透明度；晦涩；难懂
+
+### 例句
+```
+The Stage class is the top-level container for any JavaFX program that has a graphical UI. 
+It has several properties and methods that allow it, for example, to be positioned, sized, 
+given a title, made invisible, or given some degree of opacity. 
+—— Pro JavaFX 9, Page34
+```
 
 # pronto
 * ['prɑnto]

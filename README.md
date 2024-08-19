@@ -12,6 +12,7 @@
 ## gut
 * 12187
 * 同 `4340`
+* 参见 `4340`
 
 ## authentic
 * 5061
@@ -23,6 +24,11 @@
 * [ɔ,θɛntɪ'keʃən]
 * n. 证明；鉴定；证实
 
+### 短语
+* in case 以防万一；假如
+* in any case 无论如何
+* in no case 决不
+
 ### 例句
 ```
 The Java platform defines a set of APIs spanning major security areas, including cryptography, 
@@ -32,6 +38,9 @@ around the following principles: ......
 —— JCA Reference Guide (Introduction)
 ```
 
+# 音标素材
+
+* 重音符号：`'`、`,`
 
 # 参考
 
